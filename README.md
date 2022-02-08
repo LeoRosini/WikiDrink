@@ -8,8 +8,8 @@ I hope you enjoy!
 
 # Initialize the Application
 To make the App work, you should run ```npm install``` in the directory of the project 
-( using the CLI ) , in order to get the node_modules folder , and finally
-```npm init -y``` getting the package.json
+( using the CLI ), to use the project you have to manually install webpack and babel,
+or use 'CRA' ```npx create-react-app``` and delete the two folders, src and public, replacing them with mine.
 
 
 # Install the required libraries and run the Application in your localhost
