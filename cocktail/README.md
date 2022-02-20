@@ -1,7 +1,7 @@
-## Per visionare il risultato finale
+## To view the final result
 
-Link al progetto finale: https://wikidrink.netlify.app/
+Link to the final project : https://wikidrink.netlify.app/
 
-#### Link Esterni
+#### External links
 
-Link Documentazione **cocktailbd** API: https://www.thecocktaildb.com/api.php
+Link Documentation **cocktailbd** API: https://www.thecocktaildb.com/api.php
