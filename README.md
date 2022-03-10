@@ -29,3 +29,12 @@ I also use many libraries such as React, styled-system, styled-components, etc .
 Realizing by following a course of React.
 I preferred to use my main language (Italian) for my first project,
 however you can manually change the paragraphs by accessing the project! 😉
+
+
+## To view the final result
+
+Link to the final project : https://wikidrink.netlify.app/
+
+#### External links
+
+Link Documentation **cocktailbd** API: https://www.thecocktaildb.com/api.php
