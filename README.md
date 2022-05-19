@@ -23,7 +23,7 @@ log into your favorite web browser and type __localhost:3000__
 and you will be able to see the project!
 
 ```diff
-- ## About the Application
+- About the Application
 ```
 
 This is my first open-source application that I made with: html, css and javascript.
