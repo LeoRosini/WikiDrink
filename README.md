@@ -25,6 +25,15 @@ and you will be able to see the project!
 ```diff
  - About the Application
 ```
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 This is my first open-source application that I made with: html, css and javascript.
 I also use many libraries such as React, styled-system, styled-components, etc ...
 **N.B**
