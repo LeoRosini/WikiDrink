@@ -27,7 +27,7 @@ and you will be able to see the project!
 ```
 
 ```diff
-- text in red
+- About the Application
 + text in green
 ! text in orange
 # text in gray
